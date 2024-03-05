@@ -1,0 +1,2 @@
+class Iplteam < ApplicationRecord
+end
